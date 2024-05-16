@@ -1,8 +1,0 @@
-- Ivan: Tacos de Pollo Rapidos
-- Ivan: Ensalada de Atún
-- Matias: Pasta con Ajo y Aceite
-- Nicolas: Quesadillas
-- Matias: Huevos Revueltos con Verduras
-- Nicolas: Sandwich de Jamon y Queso
-- Marina: Wraps de pollo
-- Marina: Batido de Frutas
